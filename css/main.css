@@ -10,6 +10,7 @@ html {
 
 header {
   background-color: #ffe500;
+  padding: .75em;
 }
 
 body {
@@ -30,6 +31,11 @@ img {
   display: block;
 }
 
+nav ul {
+  margin: 0;
+  text-align: center;
+}
+
 nav a {
   text-align: center;
   list-style-type: none;
@@ -43,8 +49,8 @@ nav li {
   display: inline-block;
   background-color: #b2a212;
   border-radius: 4px;
-  margin: .3em;
-  padding: 0 .75em;
+  margin: .1em;
+  padding: .2em .5em .3em;
 }
 
 nav li:hover {
