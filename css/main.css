@@ -91,4 +91,7 @@ footer {
 
 .current {
   background-color: #b20953;
+  border-radius: 4px;
+  margin: .1em;
+  padding: .2em 0 .3em;
 }
