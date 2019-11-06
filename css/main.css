@@ -10,7 +10,8 @@ html {
 
 header {
   background-color: #ffe500;
-  padding: .75em;
+  padding: 1em;
+  display: block;
 }
 
 body {
@@ -50,7 +51,7 @@ nav li {
   background-color: #b2a212;
   border-radius: 4px;
   margin: .1em;
-  padding: .2em .5em .3em;
+  padding: .2em 0 .3em;
 }
 
 nav li:hover {
