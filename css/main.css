@@ -33,7 +33,7 @@ img {
 }
 
 main {
-  margin: 1em;
+  margin: 1em .7em 1em .9em;
   display: block;
 }
 
@@ -71,7 +71,7 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
   display: block;
-  margin: .8em 0;
+  margin: .71em 0 .79em;
 }
 
 main p {
@@ -87,7 +87,7 @@ footer {
   display: block;
   color: #2f2d13;
   font-size: .95rem;
-  padding: 1em;
+  padding: .95em;
 }
 
 .current {
